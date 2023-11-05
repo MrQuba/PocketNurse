@@ -1,0 +1,8 @@
+Pocket Nurse adds a new PostMech accessory that allows you to heal for price of  2 silver per hp.
+It will also grant you some buffs for short amount of time.
+You can craft it at Mythril Anvil with:
+- 15x Hallowed Bar
+- 30x Greater Healing Potion
+- 5x Soul of Light
+You can also edit hotkey for healing inside of game
+Default hotkey is 'h'

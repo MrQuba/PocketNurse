@@ -1,0 +1,3 @@
+displayName = Pocket Nurse
+author = MrQuba
+version = 0.1

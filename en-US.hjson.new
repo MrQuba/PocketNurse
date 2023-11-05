@@ -1,0 +1,15 @@
+
+Mods: {
+	pocketNurse: {
+		Items: {
+			accPocketNurse: {
+				DisplayName: Pocket Nurse
+				Tooltip:
+					'''
+					Will heal you for money 
+					 Press 'H' key
+					'''
+			}
+		}
+	}
+}
